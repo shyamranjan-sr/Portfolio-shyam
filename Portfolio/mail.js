@@ -1,13 +1,13 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCWb8hbU_IhukQ4SD03wq0RCzOO3FjaGys",
-  authDomain: "portfolioshyam.firebaseapp.com",
-  databaseURL: "https://portfolioshyam-default-rtdb.firebaseio.com",
+  apiKey: "#",
+  authDomain: "#",
+  databaseURL: "#",
   projectId: "portfolioshyam",
   storageBucket: "portfolioshyam.appspot.com",
-  messagingSenderId: "788218007714",
-  appId: "1:788218007714:web:556b42a0969f97f2b987fb",
-  measurementId: "G-CCBE16GKM1"
+  messagingSenderId: "#",
+  appId: "#",
+  measurementId: "#"
 };
   //initialize firebase
   firebase.initializeApp(firebaseConfig);
@@ -49,4 +49,5 @@ const firebaseConfig = {
 const getElementVal = (id) => {
   return document.getElementById(id).value;
 }
+
 
